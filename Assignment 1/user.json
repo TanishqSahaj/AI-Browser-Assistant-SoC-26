@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Salman Khan",
+        "email": "SK@example.com",
+        "phone": "+91 8920209238",
+        "address": "123 Main Street, New York"
+    },
+    {
+        "name": "Shah Rukh khan",
+        "email": "SRK@example.com",
+        "phone": "+91 9293923111",
+        "address": "456 Park Avenue, Chicago"
+    }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "input": "Fill the signup form on example.com",
+    "output": {
+      "action": "fill_form",
+      "target_url": "https://example.com",
+      "data": {},
+      "steps": [
+        "open website",
+        "locate form",
+        "fill fields",
+        "submit"
+      ],
+      "clarification_needed": false,
+      "clarification_question": null
+    }
+  },
+  {
+    "input": "Go to github.com",
+    "output": {
+      "action": "navigate",
+      "target_url": "https://github.com",
+      "data": {},
+      "steps": [
+        "open website"
+      ],
+      "clarification_needed": false,
+      "clarification_question": null
+    }
+  },
+  {
+    "input": "Email this report to my manager",
+    "output": {
+      "action": "email",
+      "target_url": "",
+      "data": {},
+      "steps": [
+        "compose email",
+        "attach report",
+        "send email"
+      ],
+      "clarification_needed": true,
+      "clarification_question": "What is your manager's email address?"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "first_name": "Salman",
+  "last_name": "Khan",
+  "email": "SK@example.com",
+  "mobile": "9876543210",
+  "gender": "Male",
+  "date_of_birth": "10 Jan 2000",
+  "subjects": ["Maths"],
+  "hobbies": ["Sports"],
+  "address": "Mumbai, India"
+}
